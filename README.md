@@ -1,80 +1,33 @@
-# Hi, I'm Junior
+# Junior Akbar
 
-**Designing for Impact. Building for People.**
-Crafting digital products that bridge design, technology, and real-world needs.
+Product designer and frontend engineer with 4+ years building financial and education software. I work across the full stack of product development—from research and design systems to shipping production code.
 
----
+## What I do
 
-## 🧑‍💻 About Me
+I design and build web and mobile products, mostly in fintech and SaaS. My background spans individual contributor work, team leadership, and contributing to open source. I care about accessibility, clear interfaces, and systems that scale without breaking.
 
-I’m a product designer and UX strategist with 4+ years of experience across fintech, SaaS, and mission-driven tech. I thrive at the intersection of design and engineering — leading teams, building robust design systems, and delivering user-centered solutions for startups, scale-ups, and global organizations.
+**Design:** Product design, UX research, design systems
+**Engineering:** Next.js, React, TypeScript, Tailwind CSS
+**Tools:** Figma for design, Git for everything else
 
-My work blends design thinking, technical fluency, and a deep focus on accessibility and business impact.
+## Projects
 
----
+**[Biome Design System](https://www.milhamakbarjr.com/works/project-biome)** — Design system for Bareksa's fintech platform. Built component libraries, documentation, and tooling that reduced design-to-dev handoff time and improved UI consistency.
 
-## 🎯 Core Focus
+**[Bareksa Stock](https://www.milhamakbarjr.com/works/project-bareksa-stock)** — Mobile trading app for the Indonesian market. Designed and shipped features for stock screening, portfolio tracking, and market analysis.
 
-* **Product & UX Design** – End-to-end product design for web and mobile
-* **Design Systems** – Scalable, accessible, and brand-cohesive libraries
-* **Frontend Engineering** – Interfaces built with Next.js, TypeScript
-* **Strategy & Leadership** – Mentorship, team building, product thinking
-* **Emerging Tech** – AI, EdTech, and frontier UI paradigms
+**[Skool](https://www.milhamakbarjr.com/works/project-skool)** — Education SaaS that works offline. Built for schools in areas with unreliable internet—handles syncing, conflict resolution, and graceful degradation.
 
----
+**[AppInsight](https://uxtools-appinsight.vercel.app/)** — Open-source tool that analyzes Google Play reviews to extract UX insights. Next.js + TypeScript.
 
-## 🛠️ Tech Stack Snapshot
+More work at [milhamakbarjr.com/feed](https://www.milhamakbarjr.com/feed)
 
-* **Frameworks** – Next.js, React
-* **Languages** – TypeScript, JavaScript
-* **Styling** – Tailwind CSS
-* **Design** – Figma
+## Currently working on
 
----
+Design system automation, AI workflows for design tools, and better animation patterns in React.
 
-## 🚀 Featured Projects
+## Contact
 
-### [Biome Design System](https://www.milhamakbarjr.com/works/project-biome)
+[Website](https://www.milhamakbarjr.com/) • [LinkedIn](https://www.linkedin.com/in/milhamakbarjr/) • [milhamakbarjr@gmail.com](mailto:milhamakbarjr@gmail.com)
 
-Scalable and accessible system powering Bareksa’s fintech platform. Modern UI foundation that accelerates development and strengthens design cohesion.
-
-### [Bareksa Stock](https://www.milhamakbarjr.com/works/project-bareksa-stock)
-
-Mobile-first trading app for Indonesian investors. Combines real-time market data, analytics, and intuitive UX for every skill level.
-
-### [Skool](https://www.milhamakbarjr.com/works/project-skool)
-
-Offline-first SaaS for education. Enables teaching and learning in low-connectivity environments with resilient and inclusive tools.
-
-### [AppInsight](https://uxtools-appinsight.vercel.app/)
-
-Open-source dashboard for generating UX insights from Google Play reviews.
-
-➡️ *More projects at* [my portfolio](https://www.milhamakbarjr.com/feed)
-
----
-
-## 🌱 Currently Exploring
-
-* Advanced automation in design systems
-* AI-native design workflows
-* Animation and micro-interactions in React/Next.js
-
----
-
-## ☕ Support My Work
-
-If you’ve found my projects, tools, or writing helpful, consider [buying me a coffee](https://ko-fi.com/milhamakbarjr) or [supporting me on Trakteer](https://teer.id/milhamakbarjr).
-Your support helps me spend more time creating and sharing open resources for the design and tech community.
-
----
-
-## 🌐 Connect with Me
-
-* 🔗 [Website](https://www.milhamakbarjr.com/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/milhamakbarjr/)
-* 📬 Email: [milhamakbarjr@gmail.com](mailto:milhamakbarjr@gmail.com)
-
----
-
-*Thanks for stopping by. Let’s create meaningful digital experiences together.*
+If my open-source work has been useful, you can support it on [Ko-fi](https://ko-fi.com/milhamakbarjr) or [Trakteer](https://teer.id/milhamakbarjr).
