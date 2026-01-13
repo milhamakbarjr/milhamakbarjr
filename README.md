@@ -1,6 +1,6 @@
-# Junior Akbar
+# M Ilham Akbar Junior
 
-Product designer and frontend engineer with 4+ years building financial and education software. I work across the full stack of product development—from research and design systems to shipping production code.
+Product designer and frontend engineer with 5+ years building financial and education software. I work across the full stack of product development—from research and design systems to shipping production code.
 
 ## What I do
 
